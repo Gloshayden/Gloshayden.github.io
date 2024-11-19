@@ -35,10 +35,9 @@ html{
     position: absolute;
     left: 5%;
     width: 27%;
-    height: 50vh;
+    height: 30vh;
     text-decoration: none; 
     color: rgb(25, 0, 85);
-    font-size: 1vw;
 }
 .python {
     background-color: rgb(199, 79, 159);
@@ -50,10 +49,9 @@ html{
     position: absolute;
     left: 37%;
     width: 27%;
-    height: 50vh;
+    height: 30vh;
     text-decoration: none; 
     color: rgb(63, 4, 43);
-    font-size: 1vw;
 }
 .CC {
     background-color: rgb(83, 199, 79);
@@ -65,8 +63,7 @@ html{
     position: absolute;
     left: 68%;
     width: 27%;
-    height: 50vh;
+    height: 30vh;
     text-decoration: none; 
     color: rgb(63, 4, 43);
-    font-size: 1vw;
 }
