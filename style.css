@@ -35,7 +35,7 @@ html{
     position: absolute;
     left: 5%;
     width: 27%;
-    height: 30%;
+    height: 3vh;
     text-decoration: none; 
     color: rgb(25, 0, 85);
     font-size: 1vw;
@@ -50,7 +50,7 @@ html{
     position: absolute;
     left: 37%;
     width: 27%;
-    height: 30%;
+    height: 3vh;
     text-decoration: none; 
     color: rgb(63, 4, 43);
     font-size: 1vw;
@@ -65,7 +65,7 @@ html{
     position: absolute;
     left: 68%;
     width: 27%;
-    height: 30%;
+    height: 3vh;
     text-decoration: none; 
     color: rgb(63, 4, 43);
     font-size: 1vw;
