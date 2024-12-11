@@ -1,3 +1,4 @@
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
 html{
     background-color: rgb(0, 30, 0);
 }
@@ -76,4 +77,16 @@ html{
     border: 5px solid rgb(0, 0, 0);
     border-radius: 20px; 
     text-decoration: none; 
+}
+.nf-fa-home {
+    font-size: 2.5vw;
+    padding: 1.5vw;
+}
+.nf-md-github {
+    font-size: 3vw;
+    padding: 1.5vw;
+}
+.nf-fa-discord{
+    font-size: 2.5vw;
+    padding: 1.5vw;
 }
